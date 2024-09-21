@@ -1,0 +1,7 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button{
+	-fx-font-size: 14px;
+    -fx-padding: 10px 20px 10px 20px; /* Top, Right, Bottom, Left */
+    -fx-background-radius: 5px; /* Border radius */
+}
